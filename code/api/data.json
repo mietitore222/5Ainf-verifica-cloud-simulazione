@@ -1,3 +1,30 @@
 {
-    
+    "cardList":[
+     {
+      "imgurl":"img/moodle.png",
+      "title":"Moodle",
+      "desc": "Moodle della scuola, con il materiale dei docenti e la consegna dei compiti in classe online.",
+      "buttonurl":"moodle"
+    },
+    {
+        "imgurl":"img/github.png",
+        "title":"GitHub",
+        "desc": "Pagina con i progetti della scuola, sul sito ufficiale di github.com.",
+        "buttonurl":"https://github.com/marconicivitavecchia"
+      },
+      {
+        "imgurl":"img/cisco.png",
+        "title":"SimDesktop",
+        "desc": "Simulatore di assemblaggio computer desktop, creato da CISCO.",
+        "buttonurl":"simlaptop/Index.html"
+      },
+      {
+        "imgurl":"img/cisco.png",
+        "title":"SimLaptop",
+        "desc": "Simulatore di assemblaggio computer laptop, creato da CISCO.",
+        "buttonurl":"simdesktop/Index.html"
+      }
+
+    ]
+
 }
